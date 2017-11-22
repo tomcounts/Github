@@ -1,0 +1,7 @@
+.dispositions-view .disp-item span {
+    white-space: normal;
+    text-overflow: ellipsis;
+    overflow: hidden;
+text-decoration: underline;
+color: red;
+}
