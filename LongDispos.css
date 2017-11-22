@@ -5,3 +5,8 @@
 text-decoration: underline;
 color: red;
 }
+.remember_station_wraper {
+  margin-top: 18px;
+  padding-left: 5px;
+    display: none;
+}
