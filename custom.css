@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 .dispositions-view .disp-item span {
     white-space: normal;
     text-overflow: ellipsis;
@@ -7,4 +8,15 @@
   margin-top: 18px;
   padding-left: 5px;
   display: none;
+=======
+.dispositions-view .disp-item span {
+    white-space: normal;
+    text-overflow: ellipsis;
+    overflow: hidden;
+}
+.remember_station_wraper {
+  margin-top: 18px;
+  padding-left: 5px;
+  display: none;
+>>>>>>> 1198a0d535a7b99db428d93c4aaa4ca5c8cbc4c5
 }
